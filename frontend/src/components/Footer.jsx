@@ -6,7 +6,7 @@ const Footer = () => {
 
   return (
     <footer className="bg-[#457b9d] border-t text-center py-6 text-sm text-[#f1faee]">
-      &copy; {new Date().getFullYear()} Actyme. {t('footer.copyright')}
+      &copy; {new Date().getFullYear()} Quest Point. {t('footer.copyright')}
     </footer>
   );
 };

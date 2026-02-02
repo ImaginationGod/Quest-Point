@@ -1,4 +1,4 @@
-# ⚡ Actyme - Full-Stack Task Reward Platform
+# ⚡ Quest Point - Full-Stack Task Reward Platform
 
 Welcome to **Actyme**, a next-gen platform where users complete tasks, earn entries, and win monthly rewards.
 

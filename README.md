@@ -1,6 +1,6 @@
 # ⚡ Quest Point - Full-Stack Task Reward Platform
 
-Welcome to **Actyme**, a next-gen platform where users complete tasks, earn entries, and win monthly rewards.
+Welcome to **Quest Point**, a next-gen platform where users complete tasks, earn entries, and win monthly rewards.
 
 This is a **MERN stack application** with internationalization (i18n), Stripe integration, and secure backend features.
 
@@ -8,7 +8,7 @@ This is a **MERN stack application** with internationalization (i18n), Stripe in
 
 ## 🔗 Live Demo
 
-🚀 **[View Actyme on Render](https://actyme.onrender.com/)**
+🚀 **[View Quest Point on Render](https://actyme.onrender.com/)**
 
 ---
 
@@ -24,7 +24,7 @@ This is a **MERN stack application** with internationalization (i18n), Stripe in
 ## 📁 Project Structure
 
 ```
-Actyme/
+Quest-Point/
 ├── backend/
 │ ├── logs/                             # Server logs (Winston)
 │ ├── middleware/                       # Custom middlewares (error handler, security)
@@ -54,13 +54,13 @@ Actyme/
 ### 🔧 Backend `.env` (in `/backend/.env`)
 
 PORT=5000
-STRIPE_SECRET_KEY=sk_test_51Rt2Ni0KODFFF8nArgCfW7nSa8tV6vFi0E3b5Zk9OnL9MclKYm43asMmBtvt05QqD382UmiDHX50LuMU5H4c77uj00EKYr81tc
+STRIPE_SECRET_KEY=******
 
 CLIENT_URL=https:http://localhost:5173
 
 ### 🌐 Frontend `.env` (in `/frontend/.env`)
 
-VITE_STRIPE_PUBLIC_KEY=pk_test_51Rt2Ni0KODFFF8nAttRIcw9RWpGl3doY0obHUZxz8rh9SmxY264mHDU1NcDLSnYF2LhlahHpwTnmOZ0UNN6wAuUI002T7oekjm
+VITE_STRIPE_PUBLIC_KEY=*****
 
 ---
 

@@ -17,7 +17,7 @@ const Navbar = () => {
             <div className="max-w-6xl mx-auto px-4 py-4 flex items-center justify-between">
                 {/* Logo */}
                 <a href="#" className="font-bold text-2xl text-[#457b9d]">
-                    Actyme
+                    Quest Point
                 </a>
 
                 {/* Desktop Links */}
